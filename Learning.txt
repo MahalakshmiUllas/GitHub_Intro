@@ -1,0 +1,5 @@
+Python
+SQL
+Docker
+Kubernetes
+Azure
