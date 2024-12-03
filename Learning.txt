@@ -4,8 +4,7 @@ Docker
 Kubernetes
 Azure
 REST API
-Flask important**** 
-sriram
+Flask very important**** 
 Pandas & NumPy 
 C# 
 .net frame work
