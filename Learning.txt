@@ -5,4 +5,4 @@ Kubernetes
 Azure
 REST API
 Flask
-Pandas & NumPy
+Pandas & NumPy - libraries
