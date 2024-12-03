@@ -4,22 +4,7 @@ Docker
 Kubernetes
 Azure
 REST API
-Flask very important**** 
-Pandas & NumPy 
-C# 
-.net frame work
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Flask very important*****
+Csharp
+MS SQL
+MySQL
