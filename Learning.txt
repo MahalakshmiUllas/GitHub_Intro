@@ -7,3 +7,4 @@ REST API
 Flask very important*****
 Csharp
 MS SQL
+MySQL
