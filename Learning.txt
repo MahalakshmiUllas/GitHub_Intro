@@ -6,4 +6,4 @@ Azure
 REST API
 Flask
 Pandas & NumPy 
-C#
+C#, .net
