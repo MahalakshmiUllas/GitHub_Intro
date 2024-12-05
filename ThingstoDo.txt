@@ -1,0 +1,9 @@
+https://www.geeksforgeeks.org/how-to-get-data-from-api-in-python-flask/
+
+
+
+
+
+
+https://www.geeksforgeeks.org/get-the-data-received-in-a-flask-request/
+https://apidog.com/blog/flask-post-json/

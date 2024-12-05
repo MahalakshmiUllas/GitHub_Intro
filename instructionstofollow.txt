@@ -1,0 +1,18 @@
+execute the following command: 
+1. python -m venv venv         (to create an virtual interpreter)
+2. .\venv\Scripts\activate     (to activate) if we close the terminal we can run this and activate the env
+
+install flask:
+3. python -m pip install --upgrade pip      (to upgrade pip)
+4. python -m pip install flask              (to install flask)
+5. python -m pip install requests
+create the files, edit the files execute
+6. flask run --port 5001                   (to run flask in powershell/env and in app.py we need not specify any port)
+            or
+   python app.py                           (to run flask in python normal terminal and in app.py we need to specify any port number)
+
+
+
+
+
+
